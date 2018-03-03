@@ -1,0 +1,7 @@
+ConwayGameOfLife/ConwayGameOfLife.pro
+ConwayGameOfLife/main.cpp
+ConwayGameOfLife/mainwindow.cpp
+ConwayGameOfLife/mainwindow.h
+ConwayGameOfLife/mainwindow.ui
+ConwayGameOfLife/meshwidget.cpp
+ConwayGameOfLife/meshwidget.h
